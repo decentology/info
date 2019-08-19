@@ -1,0 +1,59 @@
+body {
+    font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 700;
+}
+
+
+.navbar-brand {
+    display: inline-block;
+    width: 256px;
+    height: 80px;
+    background-image: url("https://www.trycrypto.com/wp-content/uploads/2018/10/trycrypto-logo-1024.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+header.masthead {
+    position: relative;
+    background-color: #343a40;
+    background-size: cover;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+header.masthead h1 {
+    font-size: 1.5rem;
+}
+
+@media (min-width: 768px) {
+    header.masthead {
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+    }
+
+    header.masthead h1 {
+        font-size: 2.5rem;
+        padding-top: 4rem;
+    }
+}
+
+.pb-col {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+/*!
+   * Start Bootstrap - Landing Page v5.0.3 (https://startbootstrap.com/template-overviews/landing-page)
+   * Copyright 2013-2019 Start Bootstrap
+   * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-landing-page/blob/master/LICENSE)
+*/
