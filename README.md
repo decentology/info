@@ -1,4 +1,4 @@
-## TryCrypto Info
+## Decentology Info
 
-This repo contains general information assets for TryCrypto.
+This repo contains general information assets for Decentology.
 
